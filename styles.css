@@ -1,0 +1,65 @@
+/*Css properties */
+.granny{
+  text-align: center;
+  color: #404040;
+  text-decoration: underline;
+  font-size:22pt;
+  font-size-adjust:0.25em;
+  font-weight:bold;
+  background-color: #F0F0F0;
+  font-family:Lucida Sans Unicode;
+
+}
+.steps{
+  text-align:left;
+  text-decoration-color: #404040;
+  
+  color: #404040;
+  font-size: 18pt;
+  font-size-adjust:0.25em;
+  font-weight:normal;
+  background-color:#F0F0F0 ;
+  font-family:  Helvetica;
+}
+.procedure{
+  text-align:left;
+
+  color: #404040;
+  font-size: 18pt;
+  font-size-adjust:0.25em;
+  font-weight: normal;
+  background-color:#F0F0F0  ;
+  font-family:  Arial;
+}
+.comments{
+  text-align:left;
+  color: #404040;
+  font-size: 18pt;
+  font-size-adjust:0.25em;
+  font-weight: normal;
+  background-color:#F0F0F0  ;
+  font-family: sans-serif;
+
+}
+.redirect{
+  text-align: left;
+  color: #A4A400; 
+  font-size: 18pt;
+  font-size-adjust:0.25;
+  font-weight: normal;
+  font-family: Verdana; 
+  
+
+}
+.background{
+  color:#A4A400;
+  font-family: Georgia;
+  font-size: 11pt;
+}
+.appearance{
+  background-image:url(https://www.homestratosphere.com/wp-content/uploads/2018/07/plastic-silverware-071918-e1532007247699.jpg);
+  font-family: Georgia;
+}
+h1,h2,h3,.granny,.redirects{
+  color: #A4A400 ;
+}
